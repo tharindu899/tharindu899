@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabathjayakody )
-[![Twitter ](https://img.shields.io/badge/Twitter-%31A8FF.svg?logo=twitter&logoColor=white)](https://instagram.com/prabathjayakody )
+[![Twitter ](https://img.shields.io/badge/Twitter-%2331A8FF.svg?logo=twitter&logoColor=white)](https://twitter.com/Tharind26215950)
 
 # 💻 Tech Stack:
 
