@@ -10,21 +10,21 @@ You can click the Preview link to take a look at your changes.
 --->
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
-<h1 align="center">Hi 👋, I'm Karan</h1>
+<h1 align="center">Hi 👋, I'm Tharindu</h1>
 
-<h3 align="center">A noob developer from India</h3>
+<h3 align="center">A noob developer from sri Lanka </h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weebzone&label=Profile%20views&color=0e75b6&style=flat" alt="weebzone" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu899&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu898" /> </p>
 
 # 💫 About Me:
 
-🔭 I’m currently working on WZML<br><br>🌱 I’m currently learning Python<br><br>📫 How to reach me @_krn_adhikari<br><br>⚡ Fun fact I am still an Ultra Noob Coder
+🔭 I’m currently working on edit<br><br>🌱 I’m currently learning Python<br><br>📫 How to reach me @SLtharindu1<br><br>⚡ Fun fact I am still an Ultra Noob Coder
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_krn_adhikari) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tharindu ) 
 
 # 💻 Tech Stack:
 
@@ -32,14 +32,14 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=weebzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tharindu899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=weebzone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tharindu899&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weebzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu898&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=weebzone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tharindu899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
