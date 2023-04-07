@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabathjayakody ) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabathjayakody )
+![GitHub followers](https://img.shields.io/github/followers/tharindu899?style=social)
 
 # 💻 Tech Stack:
 
