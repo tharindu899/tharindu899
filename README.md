@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabathjayakody )
 ![GitHub followers](https://img.shields.io/github/followers/tharindu899?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTharind26215950%3Fs%3D09)
 
 # 💻 Tech Stack:
 
