@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabathjayakody )
 [![Twitter ](https://img.shields.io/badge/Twitter-%2331A8FF.svg?logo=twitter&logoColor=white)](https://twitter.com/Tharind26215950)
-[![mirror-tele ](https://img.shields.io/badge/mirror-tele-%2331A8FF.svg?logo=mirror-tele&logoColor=white)](https://github.com/organizations/mirror-GR/repositories)
 [![bot ](https://img.shields.io/badge/bot-%2331A8FF.svg?logo=bot&logoColor=white)](https://github.com/orgs/webtely/repositories)
 
 # 💻 Tech Stack:
